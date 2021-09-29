@@ -1,2 +1,2 @@
 # basic-kernel-module
-Template for creating Linux Kernel MOdules
+Template for creating Linux Kernel Modules
